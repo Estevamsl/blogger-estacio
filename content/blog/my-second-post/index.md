@@ -1,9 +1,10 @@
 ---
 title: Um rápido resumo sobre o nestjs!
-date: "2015-05-06T23:46:37.121Z"
+date: "2022-08-31T22:12:03.284Z"
+description: "Nestjs, um framework para construir aplicações escaláveis de forma eficiente e rápida."
 ---
 
-<!-- markdown para falar sobre o Nestjs -->
+![Nestjs](https://nestjs.com/img/logo_text.svg)
 
 # Nestjs
 
