@@ -1,5 +1,5 @@
-import * as React from "react"
 import { Link } from "gatsby"
+import * as React from "react"
 
 const Layout = ({ location, title, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
@@ -27,7 +27,7 @@ const Layout = ({ location, title, children }) => {
       <footer>
         © {new Date().getFullYear()}, Built with
         {` `}
-        <a href="https://www.gatsbyjs.com">Gatsby</a>
+        <a href="https://github.com/Estevamsl">Estevam Souza</a>
       </footer>
     </div>
   )
