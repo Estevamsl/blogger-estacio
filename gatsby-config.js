@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Estevam Souza`,
+      summary: `Eu escrevo documentações de node junto com Nestjs.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `Um pequeno blog com a intenção de práticar comandos em HTML, CSS & JS.`,
+    siteUrl: `https://blogger-estacio-pvhd0cmof-estevamsl.vercel.app/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `estevam-souza`,
     },
   },
   plugins: [
